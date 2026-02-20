@@ -1,0 +1,5 @@
+{
+  "name": "SlitherClone",
+  "description": "A high-fidelity single-player Slither.io clone. Eat glowing orbs, trap bots, and grow the longest snake!",
+  "requestFramePermissions": []
+}
